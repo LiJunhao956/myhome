@@ -1,3 +1,3 @@
-- 校级一等奖学金, 2022.  
+- 校三好学生, 2012.  
 
-- Outstanding Graduation Thesis, XXX University, 2023. 
+- 校二等奖学金, 2022. 
