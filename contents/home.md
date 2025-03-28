@@ -1,7 +1,6 @@
 [![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
-
+目前正在华中科技大学船舶与海洋工程学院攻读学士学位
 #### Email  
 <code>XX@XX.XX</code>  
 <code>XX@XX.XX</code>
