@@ -7,8 +7,6 @@
 **华中科技大学**
 
 
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
 
 #### Research Interests  
-XX, XX, XX, XX.
+船舶与海洋工程
