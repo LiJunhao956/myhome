@@ -2,9 +2,7 @@
 
 目前正在华中科技大学船舶与海洋工程学院攻读学士学位
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
-
+<code>1156443787@qq.com</code>  
 #### Education  
 **XX University**, Master of XX (XX – XX)  
 • GPA: XX/XX  
