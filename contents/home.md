@@ -4,8 +4,8 @@
 #### Email  
 <code>1156443787@qq.com</code>  
 #### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+**华中科技大学**
+
 
 **XX University**, Exchange student <br>  
 • As a XX, represented my college as an outstanding student for a XX exchange program.  
