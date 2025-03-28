@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>JavaScript演示</title>
+  <script>
+    function changeBackgroundColor() {
+      document.body.style.backgroundColor = 'lightblue';
+    }
+    function showCurrentTime() {
+      const now = new Date();
+      alert('当前时间是：' + now.toLocaleString());
+    }
+    window.onload = function () {
+      changeBackgroundColor();
+      showCurrentTime();
+    }
+  </script>
+</head>
+
+<body>
+
+</body>
+
+</html>
